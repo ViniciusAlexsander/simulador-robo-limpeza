@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trabalho do robo limpador", "Trabalho do robo limpador\Trabalho do robo limpador.csproj", "{DB70BE6D-FB08-4F58-86D3-8F535C25DB18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB70BE6D-FB08-4F58-86D3-8F535C25DB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB70BE6D-FB08-4F58-86D3-8F535C25DB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB70BE6D-FB08-4F58-86D3-8F535C25DB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB70BE6D-FB08-4F58-86D3-8F535C25DB18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46A5036-A0CC-4378-B263-23135ECD1A79}
+	EndGlobalSection
+EndGlobal
